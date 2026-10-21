@@ -176,18 +176,18 @@
   "footer_images": [
     {
       "link": "/play/",
-      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
-      "image_alt": "apple pay"
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
     },
     {
       "link": "/play/",
-      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
-      "image_alt": "mastercard"
+      "image": "/uploads/57286ff731a9289683de8b4742a326db.svg",
+      "image_alt": "mifinity"
     },
     {
       "link": "/play/",
-      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
-      "image_alt": "bank transfer"
+      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
+      "image_alt": "skrill"
     }
   ],
   "Slots": [
@@ -266,8 +266,8 @@
       "question": "Does TiffanyLuck Casino work on an iPhone?"
     }
   ],
-  "_generated_at": "2026-10-21T10:10:12.967Z",
+  "_generated_at": "2026-10-21T10:11:03.258Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-21T10:10:13.586Z",
-  "_deploy_trigger": "ivpfuq"
+  "_last_deploy": "2026-10-21T10:11:03.826Z",
+  "_deploy_trigger": "nxbk5"
 }
