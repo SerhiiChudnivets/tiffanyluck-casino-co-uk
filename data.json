@@ -66,7 +66,7 @@
   "tagline": "300% Up to 3000 EUR + 300 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. Tiffany Luck Casino. All rights reserved",
-  "popup_text": "First Deposit Bonus 100% up to €100 ",
+  "popup_text": "First Bonus 100% up to €100 ",
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
@@ -90,7 +90,7 @@
     "alt": "tiffanyluck casino logo"
   },
   "popup_logo": {
-    "url": "/uploads/df040d039fa3422a56dd8863251be7d6.webp",
+    "url": "/uploads/551747125d0149d4779ced872a866639.webp",
     "alt": "tiffanyluck casino logo"
   },
   "main_background_img": {
@@ -266,8 +266,8 @@
       "question": "Does TiffanyLuck Casino work on an iPhone?"
     }
   ],
-  "_generated_at": "2026-10-21T10:11:03.258Z",
+  "_generated_at": "2026-10-21T10:11:54.897Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-21T10:11:03.826Z",
-  "_deploy_trigger": "nxbk5"
+  "_last_deploy": "2026-10-21T10:11:55.456Z",
+  "_deploy_trigger": "2d0dzq"
 }
