@@ -1,7 +1,7 @@
 {
   "name": "tiffanyluck-casino.co.uk",
-  "site_name": "Tiffany Luck Casino | Bonus 300% Up to 3000 EUR",
-  "html_head": "<meta name=\"google-site-verification\" content=\"dUuWKWgFXAyIvrOqXX6-f7iGuoTX4RA7KM9szbR40Ik\" />\n<link rel=\"canonical\" href=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
+  "site_name": "Tiffany Luck Casino 🎖️ Bonus 300% Up to 3000 EUR",
+  "html_head": "<meta name=\"google-site-verification\" content=\"dUuWKWgFXAyIvrOqXX6-f7iGuoTX4RA7KM9szbR40Ik\" />\n<link rel=\"canonical\" href=\"https://tiffanyluck-casino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Tiffany Luck Casino | Bonus 300% Up to 3000 EUR\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://tiffanyluck-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Tiffany Luck Casino | Bonus 300% Up to 3000 EUR\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
   "url": "tiffanyluck-casino.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
@@ -193,10 +193,10 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "/uploads/3a977159d4449d04c5b5e93e231f52fe.webp",
-      "name": "Lucky Money",
-      "Name": "Lucky Money",
-      "logo_alt": "lucky money"
+      "logo": "/uploads/031de5e2b6779dfca9f31d5fd9e7cc51.webp",
+      "name": "Razo Shark",
+      "Name": "Razo Shark",
+      "logo_alt": "Razor Shark"
     },
     {
       "link": "/play/",
@@ -207,10 +207,10 @@
     },
     {
       "link": "/play/",
-      "logo": "/uploads/5bf05f7c417802687f92671178ddb8ed.webp",
-      "name": "Joker Stoker",
-      "Name": "Joker Stoker",
-      "logo_alt": "joker stoker"
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
@@ -223,21 +223,24 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
-      "name": "Weekly Reload Bonus  77% up to €700 + 50 FS ",
-      "Name": "Weekly Reload Bonus  77% up to €700 + 50 FS "
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Sport First Bonus  100% up to €100 ",
+      "Name": "Sport First Bonus  100% up to €100 ",
+      "logo_alt": "Exclusive Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
-      "name": "Sport Weekly Cashback  10% up to €500   ",
-      "Name": "Sport Weekly Cashback  10% up to €500   "
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Crypto Welcome Bonus  100% up to 200 USDT",
+      "Name": "Crypto Welcome Bonus  100% up to 200 USDT",
+      "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
-      "name": "Welcome Pack  350% up to €10,000 + 500 FS ",
-      "Name": "Welcome Pack  350% up to €10,000 + 500 FS "
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "Welcome Pack  300% Up to 3000 EUR + 300 Free Spins",
+      "Name": "Welcome Pack  300% Up to 3000 EUR + 300 Free Spins",
+      "logo_alt": "Sport Bonus"
     }
   ],
   "Reviews": null,
@@ -263,8 +266,8 @@
       "question": "How do I take part in Ragnabet Casino tournaments?"
     }
   ],
-  "_generated_at": "2026-10-21T09:48:05.946Z",
+  "_generated_at": "2026-10-21T09:53:07.089Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-21T09:48:10.532Z",
-  "_deploy_trigger": "t0ytx"
+  "_last_deploy": "2026-10-21T09:53:07.715Z",
+  "_deploy_trigger": "e9xtd"
 }
