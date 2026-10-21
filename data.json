@@ -1,0 +1,270 @@
+{
+  "name": "tiffanyluck-casino.co.uk",
+  "site_name": "Tiffany Luck Casino | Bonus 300% Up to 3000 EUR",
+  "html_head": "<meta name=\"google-site-verification\" content=\"dUuWKWgFXAyIvrOqXX6-f7iGuoTX4RA7KM9szbR40Ik\" />\n<link rel=\"canonical\" href=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n<meta property=\"og:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n<meta property=\"og:url\" content=\"https://ragnabet-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Ragnabet Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n <meta name=\"twitter:title\" content=\"Ragnabet Casino | Deposit Bonus 100% up to €600 + 200 FS\">\n <meta name=\"twitter:description\" content=\"Immerse yourself in the world of Ragnabet: popular slots, live casino, sports betting and tournaments. Find your favourite form of online entertainment!\">\n",
+  "url": "tiffanyluck-casino.co.uk",
+  "template": "tupchiy",
+  "language_code": "en-GB",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": false,
+  "breadcrumbs": true,
+  "content": "<p></p>",
+  "pages": [],
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the difference between the two weekend bonuses at Ragnabet Casino?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Two offers are available to players: a 77% Weekly Reload up to €700 + 50 FS and a 50% Weekend Reload up to €700 + 50 FS. The activation terms and availability of each promotion are specified in the bonuses section."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I claim rewards from the Ragnabet bonus shop?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In the Exclusive Store section, you can view the available rewards and the conditions for claiming them. The range depends on the current loyalty programme offers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use the same account for the casino and sports betting?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Ragnabet combines the casino and sports sections into a single interface. Players can switch between slots, live casino and sporting events without creating a separate profile"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What documents might be required to withdraw winnings?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To verify your identity, you may be asked to provide a passport or driving licence, proof of address and confirmation of your payment method. The list depends on the results of your account verification."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I take part in Ragnabet Casino tournaments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Go to the ‘Tournaments’ section, select an active competition and familiarise yourself with the rules for earning points. Prizes, the duration of the event and the eligible games are determined by the terms and conditions of the specific tournament"
+        }
+      }
+    ]
+  },
+  "seo_description": null,
+  "redirect_site": null,
+  "hero_title": "Tiffany Luck Casino",
+  "hero_subtitle": "Welcome Bonus",
+  "hero_badge": "Games, Slots, Big Wins",
+  "cta_text": "Play",
+  "tagline": "300% Up to 3000 EUR + 300 Free Spins",
+  "features_list": null,
+  "footer_text": "© 2026. Tiffany Luck Casino. All rights reserved",
+  "popup_text": "First Deposit Bonus 100% up to €100 ",
+  "faq_title": "FAQ",
+  "login_text": "Login",
+  "register_text": "Sign Up",
+  "slots_title": "Slots",
+  "bonus_title": "Popular Bonuses",
+  "get_bonus_btn_text": "Go",
+  "redirect_link": "/play/",
+  "home_name": "Tiffany Luck Casino",
+  "subdomains": null,
+  "accent_color": "#334155",
+  "main_background": "#100e0e",
+  "secondary_background": "#0e1116",
+  "button_background": "#00bda0",
+  "button_text_color": "#eef1f6",
+  "text_color": "#e9e9e9",
+  "color_highlight_text": "#f1efef",
+  "color_main_btn_text": "#d5dee1",
+  "cta_background": "#ebb90d",
+  "logo": {
+    "url": "/uploads/df040d039fa3422a56dd8863251be7d6.webp",
+    "alt": "tiffanyluck casino logo"
+  },
+  "popup_logo": {
+    "url": "/uploads/df040d039fa3422a56dd8863251be7d6.webp",
+    "alt": "tiffanyluck casino logo"
+  },
+  "main_background_img": {
+    "url": "/uploads/bed8278a770c31ccaa59b5761a33a177.webp",
+    "alt": "tiffanyluck casino banner"
+  },
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Login",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Application",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Review",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonus",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Slots",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Withdrawal",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Contacts",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacy Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Betting Rule",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Responsible Gaming",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookies Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Terms & Conditions",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
+      "image_alt": "apple pay"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
+      "image_alt": "mastercard"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
+      "image_alt": "bank transfer"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/3a977159d4449d04c5b5e93e231f52fe.webp",
+      "name": "Lucky Money",
+      "Name": "Lucky Money",
+      "logo_alt": "lucky money"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/5bf05f7c417802687f92671178ddb8ed.webp",
+      "name": "Joker Stoker",
+      "Name": "Joker Stoker",
+      "logo_alt": "joker stoker"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/52282b6f18269f665c93d80241ef17fc.webp",
+      "name": "Lucku Jet",
+      "Name": "Lucku Jet",
+      "logo_alt": "Lucky Jet"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
+      "name": "Weekly Reload Bonus  77% up to €700 + 50 FS ",
+      "Name": "Weekly Reload Bonus  77% up to €700 + 50 FS "
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
+      "name": "Sport Weekly Cashback  10% up to €500   ",
+      "Name": "Sport Weekly Cashback  10% up to €500   "
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
+      "name": "Welcome Pack  350% up to €10,000 + 500 FS ",
+      "Name": "Welcome Pack  350% up to €10,000 + 500 FS "
+    }
+  ],
+  "Reviews": null,
+  "FAQ": [
+    {
+      "answer": "Two offers are available to players: a 77% Weekly Reload up to €700 + 50 FS and a 50% Weekend Reload up to €700 + 50 FS. The activation terms and availability of each promotion are specified in the bonuses section.",
+      "question": "What is the difference between the two weekend bonuses at Ragnabet Casino?"
+    },
+    {
+      "answer": "In the Exclusive Store section, you can view the available rewards and the conditions for claiming them. The range depends on the current loyalty programme offers.",
+      "question": "How do I claim rewards from the Ragnabet bonus shop?"
+    },
+    {
+      "answer": "Yes, Ragnabet combines the casino and sports sections into a single interface. Players can switch between slots, live casino and sporting events without creating a separate profile",
+      "question": "Can I use the same account for the casino and sports betting?"
+    },
+    {
+      "answer": "To verify your identity, you may be asked to provide a passport or driving licence, proof of address and confirmation of your payment method. The list depends on the results of your account verification.",
+      "question": "What documents might be required to withdraw winnings?"
+    },
+    {
+      "answer": "Go to the ‘Tournaments’ section, select an active competition and familiarise yourself with the rules for earning points. Prizes, the duration of the event and the eligible games are determined by the terms and conditions of the specific tournament",
+      "question": "How do I take part in Ragnabet Casino tournaments?"
+    }
+  ],
+  "_generated_at": "2026-10-21T09:48:05.946Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-10-21T09:48:10.532Z",
+  "_deploy_trigger": "t0ytx"
+}
